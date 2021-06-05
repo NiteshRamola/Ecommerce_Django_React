@@ -3,7 +3,7 @@
 Live Demo can be viewed at http://niteshramola.pythonanywhere.com/
 
 
-![DEMO](../master/ProjectScreenshots/Home-Normal.png)
+![DEMO](./ProjectScreenshots/Home-Normal.png)
 
 
 # Features
